@@ -10,3 +10,5 @@ demo/bower/
 demo/Users/
 demo/splash.js.map
 demo/splash.d.ts
+
+/.idea
